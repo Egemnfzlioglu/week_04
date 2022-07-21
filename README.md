@@ -1,4 +1,4 @@
-[Odev Linki](s)
+[Odev Linki](https://62d99242716021106ad3d185--inquisitive-pasca-1ee34b.netlify.app/)
 
 
 ### AÇMAK İÇİN ÖNCE SERVER DOSYASINI ÇALIŞTIRMALISINIZ
